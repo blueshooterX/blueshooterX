@@ -9,4 +9,4 @@
 </p>
 
 # certificates
-<img src="image/aws_cert2025.png">
+<img src="image/aws_cert2025.png" size="70%">
