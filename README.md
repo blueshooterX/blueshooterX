@@ -17,4 +17,4 @@
 
 
 # certificates
-<img src="image/aws_cert2025.png" width="300">
+<img src="image/aws_cert2025.png" style="width:50vw;">
