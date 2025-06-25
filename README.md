@@ -19,5 +19,8 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,vue,java,python,assmbler,terraform,aws,azure,linux" />
 <br>
 
-# certificates
+## 🏅 certificates
+### AWS
 <img src="image/aws_cert2025.png" style="width:50vw;">
+
+### IPA
